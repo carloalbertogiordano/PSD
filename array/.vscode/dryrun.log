@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/carlo/Code/C/PSD/nuovo/array'
+make: Leaving directory '/home/carlo/Code/C/PSD/nuovo/array'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
