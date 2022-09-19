@@ -1,0 +1,1 @@
+int checkBalance(char *);
